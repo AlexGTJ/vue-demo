@@ -8,7 +8,8 @@
     <!-- <EventDemo3 /> -->
     <!-- <EventDemo4 /> -->
     <!-- <EventDemo5 /> -->
-    <EventDemo6 />
+    <!-- <EventDemo6 /> -->
+    <ArrayList />
 </template>
 
 <script setup>
@@ -22,4 +23,5 @@
     import EventDemo4 from './components/EventDemo4.vue'
     import EventDemo5 from './components/EventDemo5.vue'
     import EventDemo6 from './components/EventDemo6.vue'
+    import ArrayList from './components/ArrayList.vue'
 </script>
